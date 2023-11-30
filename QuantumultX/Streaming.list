@@ -1,6 +1,4 @@
 # Streaming Media
-
-# (Live)
 # > Twitch
 DOMAIN-SUFFIX,ext-twitch.tv
 DOMAIN-SUFFIX,jtvnw.net
@@ -41,10 +39,6 @@ DOMAIN-KEYWORD,-spotify-com
 # > TIDAL
 USER-AGENT,TIDAL*
 DOMAIN-SUFFIX,tidal.com
-# > YouTubeMusic
-USER-AGENT,com.google.ios.youtubemusic*
-USER-AGENT,YouTubeMusic*
-
 # (Podcast)
 # > Himalaya
 USER-AGENT,Himalaya*
