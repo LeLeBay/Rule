@@ -46,7 +46,6 @@ DOMAIN-SUFFIX,himalaya.com
 # > Overcast
 USER-AGENT,Overcast*
 DOMAIN-SUFFIX,overcast.fm
-
 # (Video)
 # > AbemaTV
 USER-AGENT,AbemaTV*
