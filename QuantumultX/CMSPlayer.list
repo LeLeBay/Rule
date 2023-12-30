@@ -3,8 +3,8 @@
 # HOST-SUFFIX：20
 # HOST：3
 #欧乐影视
-HOST-KEYWORD,olevod
 HOST-KEYWORD,olelive
+HOST-KEYWORD,olevod
 HOST-KEYWORD,olemovienews
 # 海外看
 host-keyword,haiwaikan
