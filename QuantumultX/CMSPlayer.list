@@ -1,5 +1,5 @@
 # NAME: CMSPlayer
-# HOST-KEYWORD: 1
+# HOST-KEYWORD: 4
 # HOST-SUFFIX：20
 # HOST：3
 #欧乐影视
@@ -7,7 +7,7 @@ HOST-KEYWORD,olevod
 HOST-KEYWORD,olelive
 HOST-KEYWORD,olemovienews
 # 海外看
-host-keyword, haiwaikan
+host-keyword,haiwaikan
 HOST,cdn.iz8qkg.com
 HOST,cdn.kin6c1.com
 HOST,cdn.v82u1l.com
