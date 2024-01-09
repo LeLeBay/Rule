@@ -1,6 +1,6 @@
 # NAME: CMSPlayer
 # HOST-KEYWORD: 4
-# HOST-SUFFIX：20
+# HOST-SUFFIX：40
 # HOST：3
 #欧乐影视
 HOST-KEYWORD,olelive
@@ -32,23 +32,23 @@ HOST-SUFFIX,huyaapi.com
 HOST-SUFFIX,apiyhzy.com
 HOST-SUFFIX,fenwe078.cf
 # 某某
-host-suffix,v1.mk
-host-suffix,notion-api.splitbee.io
-host-suffix,themoviedb.org
-host-suffix,thetvdb.com
-host-suffix,tmdb.org
-host-suffix,discord.com
-host-suffix,olevod.com
-host-suffix,olemovienews.com
-host-suffix,haiwaikan.com
-host-suffix,bfvvs.com
-host-suffix,cdn.venus7202.com
-host-suffix,cdn.ceres9350.com
-host-suffix,cdn.efhie.com
-host-suffix,czzy.site
-host-suffix,cz01.vip
-host-suffix,picsum.photos
-host-suffix,ibb.co
-host-suffix,kin6c1.com
-host-suffix,iz8qkg.com
-host-suffix,v82u1l.com
+HOST-SUFFIX,v1.mk
+HOST-SUFFIX,notion-api.splitbee.io
+HOST-SUFFIX,themoviedb.org
+HOST-SUFFIX,thetvdb.com
+HOST-SUFFIX,tmdb.org
+HOST-SUFFIX,discord.com
+HOST-SUFFIX,olevod.com
+HOST-SUFFIX,olemovienews.com
+HOST-SUFFIX,haiwaikan.com
+HOST-SUFFIX,bfvvs.com
+HOST-SUFFIX,cdn.venus7202.com
+HOST-SUFFIX,cdn.ceres9350.com
+HOST-SUFFIX,cdn.efhie.com
+HOST-SUFFIX,czzy.site
+HOST-SUFFIX,cz01.vip
+HOST-SUFFIX,picsum.photos
+HOST-SUFFIX,ibb.co
+HOST-SUFFIX,kin6c1.com
+HOST-SUFFIX,iz8qkg.com
+HOST-SUFFIX,v82u1l.com
